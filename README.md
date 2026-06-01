@@ -30,7 +30,7 @@ A responsive frontend-only Task Manager application built using React and Tailwi
 
 ## Technical Decisions
 
-* Single-file component structure for faster development and simplicity.
+* Single file component structure for faster development and simplicity.
 * Tailwind CSS used for responsive UI and styling.
 * localStorage used to simulate authentication and persistence.
 
